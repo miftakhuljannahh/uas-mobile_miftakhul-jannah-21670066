@@ -136,9 +136,9 @@ class HomePageState extends State<HomePage> {
                             child: Column(
                               mainAxisSize: MainAxisSize.min,
                               children: const <Widget>[
-                                Icon(Icons.person), // Contoh widget dalam card
+                                Icon(Icons.notes), // Contoh widget dalam card
                                 Text(
-                                    'Pengajuan Cuti Khusus'), // Contoh widget dalam card
+                                    'Add Your Note'), // Contoh widget dalam card
                               ],
                             ),
                           ),
